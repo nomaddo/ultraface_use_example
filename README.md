@@ -1,3 +1,3 @@
 # x86 camera app
 
-Actcast アプリケーション開発前にどういう要素が必要なのかデモンストレートするアプリ
+onnx model zoo から ultraface の顔検出モデルをダウンロードし、OpenCV でカメラの撮像・画面描画をする
